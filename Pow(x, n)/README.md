@@ -1,3 +1,3 @@
 # Description
 
-Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+Implement pow(x, n), which calculates x raised to the power n (i.e., x^n).
