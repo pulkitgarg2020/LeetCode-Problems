@@ -1,8 +1,15 @@
 # LeetCode-Problems
 A repository for problems I have solved on LeetCode
+
+---
+
 1. a
 
+---
+
 2. b
+
+---
 
 3. c
 
