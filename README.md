@@ -3,7 +3,9 @@ A repository for problems I have solved on LeetCode
 
 ---
 
-1. a
+### 1. Pow(x, n)
+
+Implement pow(x, n), which calculates x raised to the power n (i.e., x^n).
 
 ---
 
