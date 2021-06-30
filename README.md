@@ -68,6 +68,8 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
+---
+
 ### 6. Median of two sorted arrays
 
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
